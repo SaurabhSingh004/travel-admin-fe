@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "title": "Emergency Medical Services",
+      "subTitle": "Get help in emergency medical situations",
+      "image": "https://example.com/medical-services.jpg",
+      "description": "Our team of trained medical professionals is available to assist with medical emergencies 24/7.",
+      "phoneNumber": "911",
+      "address": "123 Main St, Anytown, USA"
+    },
+    {
+      "id": 2,
+      "title": "Fire Department",
+      "subTitle": "Get help in emergency fire situations",
+      "image": "https://example.com/fire-department.jpg",
+      "description": "Our team of trained firefighters is available to assist with fire emergencies 24/7.",
+      "phoneNumber": "911",
+      "address": "456 Elm St, Anytown, USA"
+    },
+    {
+      "id": 3,
+      "title": "Police Department",
+      "subTitle": "Get help in emergency police situations",
+      "image": "https://example.com/police-department.jpg",
+      "description": "Our team of trained police officers is available to assist with police emergencies 24/7.",
+      "phoneNumber": "911",
+      "address": "789 Oak St, Anytown, USA"
+    }
+  ]
